@@ -3,4 +3,4 @@ We present a novel three-state gene expression model designed to elucidate the u
 
 
 ## Dataset
-The PBMC single-cell multi-omics dataset was obtained from 10x Genomics (``PBMCs from C57BL/6 mice (v1, 150x150), Single Cell Immune Profiling Dataset by Cell Ranger v3.1.0, 10x Genomics, (2019, July 24)''). The dataset was pre process and clustered thanks (Scanpy)[https://scanpy.readthedocs.io/en/stable/tutorials/basics/clustering.html]
+The PBMC single-cell multi-omics dataset was obtained from 10x Genomics (``PBMCs from C57BL/6 mice (v1, 150x150), Single Cell Immune Profiling Dataset by Cell Ranger v3.1.0, 10x Genomics, (2019, July 24)''). The dataset was pre process and clustered thanks [Scanpy](https://scanpy.readthedocs.io/en/stable/tutorials/basics/clustering.html)
